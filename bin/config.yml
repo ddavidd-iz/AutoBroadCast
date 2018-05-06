@@ -1,0 +1,16 @@
+# Define the messages you want to broadcast.
+messages:
+ - '&bMessage 1'
+ - '&dMessage 2'
+ - '&5Message 3'
+ - '&9Message 4'
+
+# Header & Footer
+Header: "&8&m-+-----------------------------+-"
+Footer: "&c&m-+-----------------------------+-" 
+# The Broadcast Sound 
+sound: CLICK
+# No Permission Message
+nopermissionmessage: &4You have no permission.
+# Interval Between Broadcasts In Seconds
+interval: 120

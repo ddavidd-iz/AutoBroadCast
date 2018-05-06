@@ -1,0 +1,11 @@
+main: nl.AverageKevin.ABC.main
+name: AutoBC
+version: 0.1
+author: AverageKevin
+description: Broadcast messages automatic into your server.
+commands:
+  abc:
+        description: AutoBroadcast Help desk. 
+        usage: /<command>
+        permission: abc.reload
+        permission-message: No Permission
