@@ -1,9 +1,9 @@
 # Define the messages you want to broadcast.
 messages:
- - '&bMessage 1'
- - '&dMessage 2'
- - '&5Message 3'
- - '&9Message 4'
+ - 'juega tranquilo aqui tu felicidad es nuestra prioridad'
+ - 'unete a nuestro dc'
+ - 'invita a tus amigos para hacer crecer esta comunidad tan bonita'
+ - 'diviertete sin toxicidad de nadie'
 
 # Header & Footer
 Header: "&8&m-+-----------------------------+-"
@@ -13,4 +13,4 @@ sound: CLICK
 # No Permission Message
 nopermissionmessage: &4You have no permission.
 # Interval Between Broadcasts In Seconds
-interval: 120
+interval: 350
